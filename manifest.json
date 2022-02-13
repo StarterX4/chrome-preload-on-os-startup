@@ -1,11 +1,10 @@
 {
     "name": "Preload",
-    "version": "0.1",
+    "version": "0.2",
     "description": "Preload Chrome on OS startup",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "permissions": [ "background" ],
     "background": {
-        "scripts": ["background.js"],
-        "persistent": true
+        "service_worker": "background.js"
                   }
 }
