@@ -4,8 +4,7 @@ A simple Chrome extension making use of the "background" permission and JS *slee
 It is a fork of https://github.com/StarterX4/chrome-preload-on-os-startup
 
 ### Install
-Available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/chromium-preload/ddjnfplagacilcnjpindbdcopccndihj)
-
+Available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/chromium-preload/ddjnfplagacilcnjpindbdcopccndihj), \
 or as a .crx in a .zip file in the [Releases](https://github.com/Alex313031/Chromium-Preload/releases) section.
 
 ### Info
