@@ -1,10 +1,24 @@
 {
-    "name": "Preload",
-    "version": "0.2",
-    "description": "Preload Chrome on OS startup",
+    "name": "Chromium Preload",
+    "short_name": "Preload",
+    "version": "0.2.1",
+    "version_name": "0.2.1",
+    "offline_enabled": true,
+    "homepage_url": "https://github.com/StarterX4/chrome-preload-on-os-startup",
+    "author": "StarterX4",
+    "description": "Preload Chromium on OS startup.",
     "manifest_version": 3,
+    "icons": {
+		"16": "icons/icon_16.png",
+		"24": "icons/icon_24.png",
+		"32": "icons/icon_32.png",
+		"48": "icons/icon_48.png",
+		"64": "icons/icon_64.png",
+		"128": "icons/icon_128.png",
+		"256": "icons/icon_256.png"
+	},
     "permissions": [ "background" ],
     "background": {
-        "service_worker": "background.js"
+        "service_worker": "js/background.js"
                   }
 }
