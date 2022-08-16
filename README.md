@@ -2,7 +2,7 @@
 A simple Chrome extension making use of the "background" permission and JS *sleep* function to preload Chromium-based browsers on OS startup and keep it running in the background.
 
 ### Install
-
+[Chrome Web Store]
 
 
 ### Info
